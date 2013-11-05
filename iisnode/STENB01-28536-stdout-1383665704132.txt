@@ -1,0 +1,19 @@
+Express server listening on port \\.\pipe\f7db50a9-6e91-4cca-8ee7-f815b1fa0cd4
+[90mGET / [32m200 [90m59ms - 392[0m
+[90mPOST /newAddress [33m404 [90m4ms[0m
+[90mPOST /newAddress [33m404 [90m1ms[0m
+[90mPOST /newAddress [33m404 [90m1ms[0m
+[90mPOST /newAddress [33m404 [90m1ms[0m
+[90mPOST /newAddress [33m404 [90m1ms[0m
+[90mPOST /newAddress [33m404 [90m1ms[0m
+[90mPOST /newAddress [33m404 [90m1ms[0m
+[90mPOST /newAddress [33m404 [90m1ms[0m
+[90mPOST /newAddress [33m404 [90m0ms[0m
+[90mPOST /newAddress [33m404 [90m2ms[0m
+[90mGET / [32m200 [90m4ms - 392[0m
+[90mGET / [32m200 [90m9ms - 392[0m
+[90mPOST /newAddress [33m404 [90m1ms[0m
+[90mGET /newAddress [33m404 [90m2ms[0m
+[90mGET /newAddress [33m404 [90m2ms[0m
+[90mPOST /newAddress [33m404 [90m1ms[0m
+[90mGET /webpage [31m500 [90m9ms[0m

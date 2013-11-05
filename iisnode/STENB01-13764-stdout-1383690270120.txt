@@ -1,0 +1,5 @@
+Express server listening on port \\.\pipe\ca740e33-ed3b-43d8-8768-7fea9249f258
+[90mGET / [32m200 [90m59ms - 416[0m
+orf.at
+[90mPOST /newAddress [32m200 [90m8ms - 451[0m
+[90mGET /orf.at [33m404 [90m3ms[0m

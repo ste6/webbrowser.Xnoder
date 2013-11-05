@@ -1,0 +1,38 @@
+Express server listening on port \\.\pipe\9aeb5c4a-a00d-47e7-8042-a954d55bb67f
+[90mGET / [32m200 [90m58ms - 392[0m
+asdf
+[90mPOST /newAddress [36m302 [90m7ms - 72[0m
+[90mGET /webpage [32m200 [90m5ms - 453[0m
+[90mGET /asdf [33m404 [90m2ms[0m
+this
+[90mPOST /newAddress [36m302 [90m2ms - 72[0m
+[90mGET /webpage [32m200 [90m7ms - 453[0m
+[90mGET /asdf [33m404 [90m1ms[0m
+this
+[90mPOST /newAddress [36m302 [90m1ms - 72[0m
+[90mGET /webpage [32m200 [90m11ms - 453[0m
+[90mGET /asdf [33m404 [90m1ms[0m
+
+[90mPOST /newAddress [36m302 [90m2ms - 72[0m
+[90mGET /webpage [32m200 [90m4ms - 453[0m
+[90mGET /asdf [33m404 [90m1ms[0m
+
+[90mPOST /newAddress [36m302 [90m1ms - 72[0m
+[90mGET /webpage [32m200 [90m4ms - 453[0m
+[90mGET /asdf [33m404 [90m1ms[0m
+
+[90mPOST /newAddress [36m302 [90m1ms - 72[0m
+[90mGET /webpage [32m200 [90m2ms - 453[0m
+[90mGET /asdf [33m404 [90m1ms[0m
+asf3434
+[90mPOST /newAddress [36m302 [90m1ms - 72[0m
+[90mGET /webpage [32m200 [90m4ms - 453[0m
+[90mGET /asdf [33m404 [90m1ms[0m
+[90mGET /webpage [32m200 [90m8ms - 453[0m
+[90mGET /asdf [33m404 [90m2ms[0m
+[90mGET /webpage [32m200 [90m3ms - 453[0m
+[90mGET /asdf [33m404 [90m1ms[0m
+[90mGET /newAddress [33m404 [90m1ms[0m
+[90mGET /newAddress [33m404 [90m2ms[0m
+[90mGET /newAddress [33m404 [90m1ms[0m
+[90mGET /newAddress [33m404 [90m1ms[0m

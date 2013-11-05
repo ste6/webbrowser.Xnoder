@@ -1,0 +1,14 @@
+doctype 5
+html
+  head
+    title= "AnonWebBrowser"
+    link(rel='stylesheet', href='/stylesheets/style.css')
+  body
+     // h1= title
+     // p Welcome to #{title}
+ 
+     form#formNewAddress(name="newAddress",method="post",action="/newAddress")
+        input#inputAddress(type="text", placeholder="Enter new Address", name="address")
+        button#btnSubmit(type="submit") submit
+
+     block content

@@ -1,0 +1,11 @@
+Express server listening on port \\.\pipe\335c18f7-5589-466c-b61f-57a25c55a972
+[90mGET / [32m200 [90m66ms - 392[0m
+orf.at
+[90mPOST /newAddress [32m200 [90m9ms - 451[0m
+[90mGET /orf.at [33m404 [90m3ms[0m
+google.at
+[90mPOST /newAddress [32m200 [90m7ms - 463[0m
+[90mGET /google.at [33m404 [90m2ms[0m
+www.orf.at
+[90mPOST /newAddress [32m200 [90m8ms - 467[0m
+[90mGET /www.orf.at [33m404 [90m1ms[0m

@@ -1,0 +1,20 @@
+Express server listening on port \\.\pipe\37b08d77-2af4-4fb2-a06f-153aa82bc631
+[90mGET / [32m200 [90m76ms - 392[0m
+test
+[90mPOST /newAddress [32m200 [90m9ms - 444[0m
+[90mGET /asdf [33m404 [90m2ms[0m
+test
+[90mPOST /newAddress [32m200 [90m12ms - 444[0m
+[90mGET /asdf [33m404 [90m1ms[0m
+test
+[90mPOST /newAddress [32m200 [90m14ms - 444[0m
+[90mGET /asdf [33m404 [90m1ms[0m
+test
+[90mPOST /newAddress [32m200 [90m4ms - 444[0m
+[90mGET /asdf [33m404 [90m0ms[0m
+test
+[90mPOST /newAddress [32m200 [90m5ms - 444[0m
+[90mGET /asdf [33m404 [90m1ms[0m
+test
+[90mPOST /newAddress [32m200 [90m4ms - 444[0m
+[90mGET /asdf [33m404 [90m1ms[0m

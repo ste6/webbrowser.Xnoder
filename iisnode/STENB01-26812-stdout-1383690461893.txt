@@ -1,0 +1,13 @@
+Express server listening on port \\.\pipe\efe8a704-3f80-4e8e-b8e8-05f6838cdb2d
+[90mGET / [32m200 [90m57ms - 482[0m
+[90mGET /www.orf.at [33m404 [90m4ms[0m
+[90mGET / [32m200 [90m10ms - 482[0m
+[90mGET /www.orf.at [33m404 [90m3ms[0m
+[90mGET / [32m200 [90m7ms - 482[0m
+[90mGET /www.orf.at [33m404 [90m1ms[0m
+[90mGET / [32m200 [90m14ms - 482[0m
+[90mGET /www.orf.at [33m404 [90m1ms[0m
+[90mGET / [32m200 [90m6ms - 482[0m
+[90mGET /www.orf.at [33m404 [90m1ms[0m
+[90mGET / [32m200 [90m4ms - 482[0m
+[90mGET /www.orf.at [33m404 [90m0ms[0m

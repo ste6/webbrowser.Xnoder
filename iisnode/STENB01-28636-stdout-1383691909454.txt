@@ -1,0 +1,4 @@
+Express server listening on port \\.\pipe\e5b7678a-500c-4824-80d5-c970c3338120
+[90mGET / [32m200 [90m55ms - 404[0m
+xnxx.com
+[90mPOST /newAddress [32m200 [90m12ms - 476[0m

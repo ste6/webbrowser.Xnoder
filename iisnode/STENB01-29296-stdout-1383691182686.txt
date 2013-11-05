@@ -1,0 +1,8 @@
+Express server listening on port \\.\pipe\8cccd6b7-9f84-41c8-b5f3-08f71e5b1a7d
+[90mGET / [32m200 [90m60ms - 480[0m
+[90mGET /xnxx.com [33m404 [90m4ms[0m
+[90mGET / [32m200 [90m9ms - 480[0m
+[90mGET /xnxx.com [33m404 [90m1ms[0m
+www.yahoo.com
+[90mPOST /newAddress [32m200 [90m8ms - 479[0m
+[90mGET /www.yahoo.com [33m404 [90m1ms[0m

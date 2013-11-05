@@ -1,0 +1,8 @@
+Express server listening on port \\.\pipe\ff5eedf3-c61c-43af-b129-e225fbffb9f3
+[90mGET / [32m200 [90m74ms - 392[0m
+[90mGET / [32m200 [90m8ms - 392[0m
+google.at
+[90mPOST /newAddress [31m500 [90m23ms[0m
+[90mGET / [32m200 [90m7ms - 392[0m
+test
+[90mPOST /newAddress [31m500 [90m49ms[0m
